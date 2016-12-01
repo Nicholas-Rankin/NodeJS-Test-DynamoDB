@@ -1,0 +1,15 @@
+{
+  "name": "aws-dynamo",
+  "version": "1.0.0",
+  "description": "Test project to connect to Amazon DynamoDB service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Rankin",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.7.9",
+    "node-uuid": "^1.4.7"
+  }
+}
